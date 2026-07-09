@@ -9,7 +9,7 @@ public class ScoreService {
 
         System.out.println("Consultando Score");
 
-        return 620;
+        return 820;
 
     }
 
