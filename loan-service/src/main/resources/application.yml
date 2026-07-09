@@ -1,0 +1,23 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:loan-db
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+
+  h2:
+    console:
+      enabled: true
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+camunda:
+  bpm:
+    admin-user:
+      id: admin
+      password: admin
+      first-name: loan-service
+    filter:
+      create: All tasks
