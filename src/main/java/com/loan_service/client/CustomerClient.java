@@ -1,4 +1,4 @@
-package com.loan_service.service;
+package com.loan_service.client;
 
 import org.springframework.stereotype.Service;
 

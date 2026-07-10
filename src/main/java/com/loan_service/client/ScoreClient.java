@@ -1,9 +1,9 @@
-package com.loan_service.service;
+package com.loan_service.client;
 
 import org.springframework.stereotype.Service;
 
 @Service
-public class ScoreService {
+public class ScoreClient {
 
     public Integer consultarScore(String cpf){
 
