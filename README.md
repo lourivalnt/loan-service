@@ -260,27 +260,6 @@ Exemplo de payload:
 
 ---
 
-# 🧪 Próximas Implementações
-
-- Integração com Customer Service
-- Integração com Vehicle Service
-- Integração com Score Service
-- Aprovação automática
-- Tratamento de erros com `BpmnError`
-- Boundary Events
-- Retry automático
-- Resilience4J
-- Docker
-- Docker Compose
-- Testcontainers
-- Observabilidade com Actuator
-- Prometheus
-- Grafana
-- Pipeline CI/CD
-- Testes unitários e integração
-
----
-
 # 📚 Conceitos Demonstrados
 
 - BPMN 2.0
